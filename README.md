@@ -1,2 +1,2 @@
 # Tribute-Page
-Tribute-Page with HTML and CSS
+A simple tribute-Page with HTML and SCSS
